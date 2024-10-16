@@ -22,7 +22,7 @@ const formFields = {
       inputProps: { required: true },
     },
     email: {
-      order: 1,
+      order: 2,
       placeholder: "Enter your email address",
       label: "Email",
       inputProps: { type: "email", required: true },
